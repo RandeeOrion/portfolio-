@@ -44,18 +44,18 @@ Number and name of feature: __Feature 1 Refactor the CSS______
 
 Estimate of time needed to complete: __800 years___
 
-Start time: __9:42___
+Start time: __9:42pm___
 
-Finish time: _____
+Finish time: _10:05pm__
 
-Actual time needed to complete: _____
+Actual time needed to complete: __roughly 20 minutes___
 
 
-Number and name of feature: ___Feature #2 Modify the Content_________
+Number and name of feature: ___Feature #2 Modify the Content____
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: _30 minutes_
 
-Start time: _____
+Start time: _10:05_
 
 Finish time: _____
 
