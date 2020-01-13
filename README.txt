@@ -57,6 +57,9 @@ Estimate of time needed to complete: _30 minutes_
 
 Start time: _10:05_
 
-Finish time: _____
+Finish time: __10:43___
 
-Actual time needed to complete: _____
+Actual time needed to complete: __40 mintues___
+
+
+fonts added by googlefonts 
