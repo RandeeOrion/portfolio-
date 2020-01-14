@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.static('./public'));
 
 app.get('/hello', (request, response) => {
-  response.status(200).send('Hello');
+  response.status(200).send('Clayton is magic');
 });
 
 app.get('/data', (request, response) => {
@@ -24,3 +24,4 @@ app.get('/data', (request, response) => {
 app.use('*', (request, response) => response.send('Sorry, that route does not exist.'))
 
 app.listen(PORT,() => console.log(`Listening on port ${PORT}`));
+
